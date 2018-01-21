@@ -1,0 +1,10 @@
+# executable
+*.exe
+*.out
+
+# data
+*.dat
+*.nc
+
+# notebook
+.ipynb_checkpoints
